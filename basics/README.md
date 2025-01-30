@@ -46,3 +46,8 @@ but only if the files do not exist in the parent directory or are newer than the
 
 ## 15-lets_move
 This script moves all files beginning with an uppercase letter to the directory /tmp/u.
+
+## 16-clean_emacs
+This script deletes all files in the current working directory that end with the character ~.
+
+
