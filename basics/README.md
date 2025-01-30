@@ -18,3 +18,6 @@ This script displays the current directory contents in long format with user and
 
 ## 6-firstdirectory
 This script creates a directory named my_first_directory in the /tmp/ directory.
+
+## 7-movethatfile
+This script moves the file betty from /tmp/ to /tmp/my_first_directory.
