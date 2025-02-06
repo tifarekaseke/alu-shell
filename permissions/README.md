@@ -26,4 +26,7 @@ This script adds execute permission to the owner and the group owner, and read p
 ### 7-everybody
 This script adds execution permission to the owner, group owner, and other users for the file `hello`.
 
+### 8-James_Bond
+This script sets the permissions of the file `hello` so that the owner and group have no permissions, while other users have all permissions.
+
 
