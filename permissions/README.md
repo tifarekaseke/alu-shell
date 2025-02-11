@@ -38,4 +38,7 @@ This script sets the permissions of the file `hello` to match the permissions of
 ### 11-directories_permissions
 This script adds execute permission to all subdirectories of the current directory for the owner, group owner, and all other users.
 
+### 12-directory_permissions
+This script creates a directory called `my_dir` with permissions set to `751`.
+
 
