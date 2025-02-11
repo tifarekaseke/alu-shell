@@ -32,4 +32,7 @@ This script sets the permissions of the file `hello` so that the owner and group
 ### 9-John_Doe
 This script sets the permissions of the file `hello` to `-rwxr-x-wx`.
 
+### 10-mirror_permissions
+This script sets the permissions of the file `hello` to match the permissions of the file `olleh`.
+
 
