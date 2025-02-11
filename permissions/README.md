@@ -44,4 +44,7 @@ This script creates a directory called `my_dir` with permissions set to `751`.
 ### 13-change_group
 This script changes the group owner of the file `hello` to `school`.
 
+### 14-change_owner_and_group
+This script changes the owner to `vincent` and the group owner to `staff` for all files and directories in the working directory.
+
 
