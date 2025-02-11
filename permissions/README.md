@@ -50,4 +50,5 @@ This script changes the owner to `vincent` and the group owner to `staff` for al
 ### 15-symbolic_link_permissions
 This script changes the owner to `vincent` and the group owner to `staff` for the symbolic link `_hello`.
 
-
+### 16-if_only
+This script changes the owner of the file `hello` to `vincent` only if it is owned by the user `guillaume`.
