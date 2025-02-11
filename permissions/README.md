@@ -35,4 +35,7 @@ This script sets the permissions of the file `hello` to `-rwxr-x-wx`.
 ### 10-mirror_permissions
 This script sets the permissions of the file `hello` to match the permissions of the file `olleh`.
 
+### 11-directories_permissions
+This script adds execute permission to all subdirectories of the current directory for the owner, group owner, and all other users.
+
 
