@@ -41,4 +41,7 @@ This script adds execute permission to all subdirectories of the current directo
 ### 12-directory_permissions
 This script creates a directory called `my_dir` with permissions set to `751`.
 
+### 13-change_group
+This script changes the group owner of the file `hello` to `school`.
+
 
