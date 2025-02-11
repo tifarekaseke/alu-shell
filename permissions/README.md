@@ -29,4 +29,7 @@ This script adds execution permission to the owner, group owner, and other users
 ### 8-James_Bond
 This script sets the permissions of the file `hello` so that the owner and group have no permissions, while other users have all permissions.
 
+### 9-John_Doe
+This script sets the permissions of the file `hello` to `-rwxr-x-wx`.
+
 
