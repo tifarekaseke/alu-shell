@@ -6,4 +6,8 @@ This script prints "Hello, World" to the standard output.
 
 This script displays a confused smiley: (Ôo)'
 
+# 2-hellofile
+
+This script displays the content of the /etc/passwd file.
+
 
