@@ -1,7 +1,5 @@
 # alu-shell
 
-# Scripts Description
+# Hello World Script
 
-## 0-iam_betty
-This script switches the current user to the user "betty".
-
+This script prints "Hello, World" to the standard output.
