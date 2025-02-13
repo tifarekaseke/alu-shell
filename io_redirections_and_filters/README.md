@@ -34,4 +34,8 @@ This script creates a file named '*\\'"Best School"'\\*$\?\*\*\*\*\*:) containin
 
 This script writes the output of the command 'ls -la' into the file 'ls_cwd_content'. If the file exists, it will be overwritten; if it does not exist, it will be created.
 
+# 9-duplicate_last_line
+
+This script duplicates the last line of the file 'iacta'. It reads the last line and appends it to the end of the file.
+
 
