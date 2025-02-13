@@ -100,4 +100,8 @@ This script finds all empty files and directories in the current directory and a
 
 This script lists all files with a .gif extension in the current directory and all its sub-directories, displaying their names without extensions, sorted by byte values (case-insensitive).
 
+# 25-acrostic
+
+This script reads lines from an input file and outputs the first letter of each line, forming an acrostic message.
+
 
