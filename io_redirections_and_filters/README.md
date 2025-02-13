@@ -92,4 +92,8 @@ This script reverses its input.
 
 This script displays all users and their home directories from the /etc/passwd file, sorted by users.
 
+# 23-empty_casks
+
+This script finds all empty files and directories in the current directory and all sub-directories, displaying their names only.
+
 
