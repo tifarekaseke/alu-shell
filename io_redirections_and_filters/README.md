@@ -30,4 +30,8 @@ This script displays the third line of the file iacta.
 
 This script creates a file named '*\\'"Best School"'\\*$\?\*\*\*\*\*:) containing the text "Best School".
 
+# 8-cwd_state
+
+This script writes the output of the command 'ls -la' into the file 'ls_cwd_content'. If the file exists, it will be overwritten; if it does not exist, it will be created.
+
 
