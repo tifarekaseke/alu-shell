@@ -84,4 +84,8 @@ This script replaces all characters `A` with `Z` and `c` with `e` from input.
 
 This script removes all letters `c` and `C` from input.
 
+# 21-reverse
+
+This script reverses its input.
+
 
