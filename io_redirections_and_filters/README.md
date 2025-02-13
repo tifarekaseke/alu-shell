@@ -70,4 +70,8 @@ This script displays lines containing the pattern "root" and the following three
 
 This script displays all the lines in the file /etc/passwd that do not contain the pattern "bin".
 
+# 18-letteronly
+
+This script displays all lines of the file /etc/ssh/sshd_config that start with a letter (including capital letters).
+
 .
