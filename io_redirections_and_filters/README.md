@@ -96,4 +96,8 @@ This script displays all users and their home directories from the /etc/passwd f
 
 This script finds all empty files and directories in the current directory and all sub-directories, displaying their names only.
 
+# 24-gifs
+
+This script lists all files with a .gif extension in the current directory and all its sub-directories, displaying their names without extensions, sorted by byte values (case-insensitive).
+
 
