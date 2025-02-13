@@ -54,7 +54,9 @@ This script displays the 10 newest files in the current directory, sorted from t
 
 This script takes a list of words as input and prints only those that appear exactly once, sorted alphabetically.
 
-# 14-findthatword
+# 14-findthatwordZ
+
+This script replaces all characters `A` with `Z` and `c` with `e` from input.
 
 This script displays lines containing the pattern "root" from the file /etc/passwd.
 
@@ -74,4 +76,6 @@ This script displays all the lines in the file /etc/passwd that do not contain t
 
 This script displays all lines of the file /etc/ssh/sshd_config that start with a letter (including capital letters).
 
-.
+# 19-AZ
+
+This script replaces all characters `A` with `Z` and `c` with `e` from input.
