@@ -104,4 +104,6 @@ This script lists all files with a .gif extension in the current directory and a
 
 This script reads lines from an input file and outputs the first letter of each line, forming an acrostic message.
 
+# 26-the_biggest_fan
 
+This script parses web server logs in TSV format and outputs the 11 hosts or IP addresses that made the most requests.
