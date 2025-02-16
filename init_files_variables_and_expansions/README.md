@@ -8,4 +8,8 @@ This script sets an alias `ll` for the command `ls -la`, allowing users to list 
 
 This script prints "hello" followed by the current user's name.
 
+# 2-path
+
+This script adds /action to the PATH environment variable, making it the last directory searched for executable programs
+
 
