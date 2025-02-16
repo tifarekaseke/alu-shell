@@ -10,6 +10,8 @@ This script prints "hello" followed by the current user's name.
 
 # 2-path
 
-This script adds /action to the PATH environment variable, making it the last directory searched for executable programs
+This script adds /action to the PATH environment variable, making it the last directory searched for executable programs.
 
+# 3-paths
 
+This script counts the number of directories in the PATH environment variable.
