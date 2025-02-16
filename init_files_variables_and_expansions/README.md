@@ -28,4 +28,8 @@ script that lists all local variables and environment variables, and functions.
 
 Create a script that creates a new local variable.
 
+#7-create_global_variable
+
+a script that creates a new global variable.
+
 
