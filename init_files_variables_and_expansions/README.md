@@ -41,7 +41,7 @@ script that prints the result of the addition of 128 with the value stored in th
 script that prints the result of POWER divided by DIVIDE, followed by a new line
 #10-love_exponent_breath
 
-script that displays the result of BREATH to the power LOVE
+ l_to_hexadecimalthat displays the result of BREATH to the power LOVE
 
 #11-binary_to_decimal
 
@@ -54,5 +54,9 @@ script that prints all possible combinations of two letters, except oo.
 #13-print_float
 
 script that prints a number with two decimal places, followed by a new line.
+
+#14-decimal_to_hexadecimal
+
+script that converts a number from base 10 to base 16.
 
 #
