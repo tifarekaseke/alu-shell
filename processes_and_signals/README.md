@@ -26,12 +26,15 @@ This script stops the `4-to_infinity_and_beyond` process using the `kill` comman
 
 This script stops the `4-to_infinity_and_beyond` process without using `kill` or `killall`.
 
-## 7-highlander
-
+##7-highlander
 This script displays "To infinity and beyond" indefinitely and responds to a SIGTERM signal by printing "I am invincible!!!".
 
 # 8-beheaded_process
 
 This script kills the `7-highlander` process.
+
+# 10-process_and_pid_file
+
+This script creates a PID file at `/var/run/myscript.pid`, displays "To infinity and beyond" indefinitely, and handles various signals.
 
 .
