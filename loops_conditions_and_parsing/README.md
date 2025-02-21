@@ -33,4 +33,8 @@ This script displays the content of the current directory in a list format, show
 
 This script checks the status of the 'school' file, informing whether it exists, if it is empty, and if it is a regular file.
 
+# 10-fizzbuzz
+
+This script displays numbers from 1 to 100, replacing multiples of 3 with "Fizz", multiples of 5 with "Buzz", and multiples of both with "FizzBuzz".
+
 
