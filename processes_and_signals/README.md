@@ -22,4 +22,8 @@ This script displays "To infinity and beyond" indefinitely, pausing for 2 second
 
 This script stops the `4-to_infinity_and_beyond` process using the `kill` command.
 
+# 6-stop_me_if_you_can
+
+This script stops the `4-to_infinity_and_beyond` process without using `kill` or `killall`.
+
 .
