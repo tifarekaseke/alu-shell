@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# This script displays the content of the current directory in a list format
+
+for file in *-*; do
+    # Extract the part of the name after the first dash
+    name_after_dash="${file#*-}"
+    echo "$name_after_dash"
+done

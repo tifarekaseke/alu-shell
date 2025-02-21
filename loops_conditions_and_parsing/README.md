@@ -25,4 +25,8 @@ This script displays numbers from 1 to 20 and shows specific messages for the 4t
 
 This script displays the time from 0 to 12 hours and 1 to 59 minutes using a while loop.
 
+# 8-for_ls
+
+This script displays the content of the current directory in a list format, showing only the part of the name after the first dash.
+
 
