@@ -37,4 +37,8 @@ This script checks the status of the 'school' file, informing whether it exists,
 
 This script displays numbers from 1 to 100, replacing multiples of 3 with "Fizz", multiples of 5 with "Buzz", and multiples of both with "FizzBuzz".
 
+# 11-read_and_cut
+
+This script displays the username, user ID, and home directory path for each user in the /etc/passwd file.
+
 
