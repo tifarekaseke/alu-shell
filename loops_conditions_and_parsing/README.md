@@ -49,16 +49,6 @@ This script displays user information from the /etc/passwd file in a narrative f
 
 This script parses the Apache access log file to extract and display visitor IP addresses along with their corresponding HTTP status codes.
 
-## Requirements
+# 14-dig_the_data
 
-- The script uses `awk` to process the log file.
-- It displays the output in the format: `IP HTTP_CODE`.
-
-## Usage
-
-Ensure that the `apache-access.log` file is present in the same directory as the script. Run the script using:
-
-```bash
-./13-lets_parse_apache_logs
-
-
+This script analyzes an Apache access log file to group visitors by their IP addresses and HTTP status codes, displaying the number of occurrences for each combination.
