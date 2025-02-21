@@ -10,4 +10,8 @@ This script displays a list of currently running processes, showing all users' p
 
 This script displays lines containing the word 'bash', allowing you to easily find the PID of your Bash processes
 
+# 3-show_your_bash_pid_made_easy
+
+This script displays the PID and process name of processes whose name contains the word 'bash'.
+
 
