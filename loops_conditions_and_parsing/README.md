@@ -17,4 +17,8 @@ This script displays "Best School" 10 times, with "Hi" printed on a new line dur
 
 This script loops from 1 to 10, displaying "bad luck" for the 4th iteration, "good luck" for the 8th iteration, and "Best School" for all other iterations using a while loop and conditional statements.
 
+# 6-superstitious_numbers
+
+This script displays numbers from 1 to 20 and shows specific messages for the 4th, 9th, and 17th iterations using a while loop and a case statement.
+
 
