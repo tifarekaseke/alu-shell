@@ -30,4 +30,8 @@ This script stops the `4-to_infinity_and_beyond` process without using `kill` or
 
 This script displays "To infinity and beyond" indefinitely and responds to a SIGTERM signal by printing "I am invincible!!!".
 
+# 8-beheaded_process
+
+This script kills the `7-highlander` process.
+
 .
