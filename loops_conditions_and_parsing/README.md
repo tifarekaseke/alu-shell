@@ -41,4 +41,8 @@ This script displays numbers from 1 to 100, replacing multiples of 3 with "Fizz"
 
 This script displays the username, user ID, and home directory path for each user in the /etc/passwd file.
 
+# 12-tell_the_story_of_passwd
+
+This script displays user information from the /etc/passwd file in a narrative format, including username, user ID, home directory, and shell.
+
 
