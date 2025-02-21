@@ -37,4 +37,11 @@ This script kills the `7-highlander` process.
 
 This script creates a PID file at `/var/run/myscript.pid`, displays "To infinity and beyond" indefinitely, and handles various signals.
 
+## manage_my_process
+
+This script writes "I am alive!" to `/tmp/my_process` indefinitely every 2 seconds.
+
+## 11-manage_my_process
+
+This init script manages the `manage_my_process` script.
 .
