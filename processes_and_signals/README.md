@@ -16,4 +16,10 @@ This script displays the PID and process name of processes whose name contains t
 
 # 4-to_infinity_and_beyond
 
-This script displays "To infinity and beyond" indefinitely, pausing for 2 seconds between each message.
+This script displays "To infinity and beyond" indefinitely, pausing for 2 seconds between each message
+
+# 5-dont_stop_me_now
+
+This script stops the `4-to_infinity_and_beyond` process using the `kill` command.
+
+.
