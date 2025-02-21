@@ -29,4 +29,8 @@ This script displays the time from 0 to 12 hours and 1 to 59 minutes using a whi
 
 This script displays the content of the current directory in a list format, showing only the part of the name after the first dash.
 
+# 9-to_file_or_not_to_file
+
+This script checks the status of the 'school' file, informing whether it exists, if it is empty, and if it is a regular file.
+
 
