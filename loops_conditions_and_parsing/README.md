@@ -49,6 +49,6 @@ This script displays user information from the /etc/passwd file in a narrative f
 
 This script parses the Apache access log file to extract and display visitor IP addresses along with their corresponding HTTP status codes.
 
-# 14-dig_the_data
+# 14-dig_the-data
 
 This script analyzes an Apache access log file to group visitors by their IP addresses and HTTP status codes, displaying the number of occurrences for each combination.
