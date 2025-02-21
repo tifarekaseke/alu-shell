@@ -21,4 +21,8 @@ This script loops from 1 to 10, displaying "bad luck" for the 4th iteration, "go
 
 This script displays numbers from 1 to 20 and shows specific messages for the 4th, 9th, and 17th iterations using a while loop and a case statement.
 
+# 7-clock
+
+This script displays the time from 0 to 12 hours and 1 to 59 minutes using a while loop.
+
 
