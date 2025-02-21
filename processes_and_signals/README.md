@@ -2,4 +2,8 @@
 
 This script displays its own Process ID (PID).
 
+# 1-list_your_processes
+
+This script displays a list of currently running processes, showing all users' processes, including those without a TTY, in a hierarchical format.
+
 
