@@ -26,4 +26,8 @@ This script stops the `4-to_infinity_and_beyond` process using the `kill` comman
 
 This script stops the `4-to_infinity_and_beyond` process without using `kill` or `killall`.
 
+## 7-highlander
+
+This script displays "To infinity and beyond" indefinitely and responds to a SIGTERM signal by printing "I am invincible!!!".
+
 .
